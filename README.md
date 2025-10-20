@@ -22,7 +22,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # تنزيل الأداة
-git clone https://github.com/username/AS-Web-Tool.git
+git clone https://github.com/Alambrator100k/AS-Web-Tool.git
 cd AS-Web-Tool
 
 # تثبيت المتطلبات
